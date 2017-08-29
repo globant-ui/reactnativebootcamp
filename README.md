@@ -1,10 +1,10 @@
 
-#React Native Boot Camp
+# React Native Boot Camp
 
-##The future of Mobile Applications is here!
-###Are you ready for it?
+## The future of Mobile Applications is here!
+### Are you ready for it?
 
-####Index
+#### Index
 
 1. [Objective](#objective)
 
@@ -44,20 +44,20 @@
 
 12. [Your First Project Starts Now!](#bookmark=id.605681dc8138)
 
-###Objective
+### Objective
 
 This course teaches the basics of React Native development. We want to help you create the best of breed user experiences and mobile applications.
 
 → [index](#index)
 
-###Who Should Attend
+### Who Should Attend
 
 The training will start at a low level, and does not require in depth knowledge of the platform in question. Desirable participant profile: trainees and outside Globant candidates. A basic knowledge on HTML, CSS, and JavaScript, React is desired, though.
 For React you can check React + Redux Bootcamp
 
 → [index](#index)
 
-###Duration
+### Duration
 
 Five weeks total.
 
@@ -65,11 +65,11 @@ Three weeks for guided learning and two weeks for app development.
 
 → [index](#index)
 
-###Technical Assistance
+### Technical Assistance
 
 You can contact other bootcamp participants or any available tutor if you need technical assistance. We will create one chat for boot camp members only, and another one for boot camp members and tutors when boot camp starts.
 
-###Performance Measurement
+### Performance Measurement
 
 1. Code review after each practice and sprint
 
@@ -78,13 +78,13 @@ You can contact other bootcamp participants or any available tutor if you need t
 → [index](#index)
 
 
-###Handling Advanced Developers
+### Handling Advanced Developers
 
 Developers that move faster than average can go ahead and complete as much exercises as wanted.
 
 → [index](#index)
 
-###Tools
+### Tools
 
 1. If you are on Windows you will need Android SDK and android emulator or device. On Mac you can add Xcode and iOS Simulator
 
@@ -99,7 +99,7 @@ Developers that move faster than average can go ahead and complete as much exerc
 → [index](#index)
 
 
-###General Guidelines
+### General Guidelines
 
 The boot camp is organized in the following way:
 
@@ -133,11 +133,11 @@ Here you will reach just your boot camp fellows for asking question sharing know
 
 → [index](#index)
 
-###Proposed Test Applications
+### Proposed Test Applications
 
 The test application will consist in a Last.fm client.
 
-###Environment Setup
+### Environment Setup
 
 Documentation (https://facebook.github.io/react-native/docs/getting-started.html)
 
@@ -147,20 +147,20 @@ Documentation (https://facebook.github.io/react-native/docs/getting-started.html
 
 3. Install watchman
 
-###Learning Days###
+### Learning Days ###
 
 Each day you will grab the fundamentals of the key building blocks for the next generation mobile apps.
 
 On each learning day you will have to:
 
-1. ####Read:####
+1. #### Read: ####
 We will provide you with documentation related with current sprint content so you can have a background reference, guide and examples to complete the following practice.
 
-2. ####Practice:####
+2. #### Practice: ####
 You will implement the previously gathered knowledge in simple coding activities.
 Most important task numbers are listed in the "*Key Points*" section for each day and they should get most of your attention; if you feel you don’t have enough time to complete all tasks, start with these ones when possible.
 
-3. ####Commit:####
+3. #### Commit: ####
 You will commit all your code on a daily basis, when you finish your practice.
 
 ### Introduction
@@ -171,11 +171,11 @@ At high level you could see the keys as:
 
 React Native is like React, but it uses native components instead of web components as building blocks. So to understand the basic structure of a React Native app, you need to understand some of the basic React concepts, like JSX, components, state, and props. If you already know React, you still need to learn some React-Native-specific stuff, like the native components.
 
-####[Topic 0: Getting started](https://facebook.github.io/react-native/docs/getting-started.html)
+#### [Topic 0: Getting started](https://facebook.github.io/react-native/docs/getting-started.html)
 
-####Topic 1: UI - ReactJS####
+#### Topic 1: UI - ReactJS ####
 
-#####Reading:#####
+##### Reading: #####
 
 1. [What is ReactJS?](http://facebook.github.io/react/). [Here](http://www.instrument.com/latest/an-introduction-to-react-js) is an introduction to it.
 
