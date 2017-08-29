@@ -203,29 +203,29 @@ React Native is like React, but it uses native components instead of web compone
 
 * [Read some ReactJS tips](https://facebook.github.io/react/tips/introduction.html).
 
-#### Topic 2: Props & State ####
+#### 2️⃣ Topic 2: Props & State ####
 
-##### Reading: #####
+##### 📖 Reading: #####
 
 1. Beginner [basic tutorial](https://facebook.github.io/react-native/docs/props.html#content)
 
 2. Beginner [basic tutorial](https://facebook.github.io/react-native/docs/state.html#content)
 
-#### Topic 3: Style ####
+#### 3️⃣ Topic 3: Style ####
 
 ##### 📖 Reading: #####
 
 1. Beginner: React Native Style [basic tutorial](https://facebook.github.io/react-native/docs/style.html)
 
-#### Topic 4: Components ####
+#### 4️⃣ Topic 4: Components ####
 
 1. Beginner: Check the compoennts section and learn what they do [basic tutorial](https://facebook.github.io/react-native/docs/getting-started.html)
 
-#### Topic 5: Handling touches ####
+#### 5️⃣ Topic 5: Handling touches ####
 
 1. Beginner: [Handling touches](https://facebook.github.io/react-native/docs/handling-touches.html)
 
-#### Topic 6: Networking ####
+#### 6️⃣ Topic 6: Networking ####
 
 1. Beginner: [Networking](https://facebook.github.io/react-native/docs/network.html)
 
@@ -237,7 +237,7 @@ React Native is like React, but it uses native components instead of web compone
 
 * Using Chrome console to debug JavaScript [https://developer.chrome.com/devtools/docs/console](https://developer.chrome.com/devtools/docs/console)
 
-##### Practice:#####
+##### ✍️ Practice: #####
 
 **Use Try to use as much ECMAScript 6 syntax as you can. Favor ```let``` and ```const``` over ```var```**
 
@@ -258,11 +258,12 @@ React Native is like React, but it uses native components instead of web compone
 
 8. Add a button and attach a touch event that loads the items in the list
 
+
 ##### Key Points: #####
 
 3, 5, 8
 
-##### Mobile Test: #####
+##### 📲 Mobile Test: #####
 
 Test your code in a mobile device or in Android emulator.
 
@@ -274,7 +275,7 @@ Commit your practice code.
 
 → [index](#index)
 
-#### 2️⃣ Topic 2: Navigation - StackNavigator ####
+#### 7️⃣ Topic 7: Navigation - StackNavigator ####
 In this Topic we will focus on learning how to use the React Native navigation library. This library is a third party as the built in navigation was deprecated because of performance issues
 
 ##### 📖 Reading: #####
@@ -309,7 +310,7 @@ Commit your practice code.
 
 → [index](#index)
 
-#### 3️⃣ Topic 3: Navigation - TabNavigator####
+#### 8️⃣ Topic 8: Navigation - TabNavigator####
 
 ##### 📖 Reading: #####
 
@@ -350,7 +351,7 @@ Commit your practice code.
 
 → [index](#index)
 
-#### 4️⃣ Topic 4: Navigation - DrawerNavigator####
+#### 9️⃣ Topic 9: Navigation - DrawerNavigator ####
 
 ##### 📖 Reading: #####
 
@@ -362,7 +363,7 @@ Commit your practice code.
 
 1. Modify your previous project to get this navigation structure
 
-
+```
 Root - StackNavigator -
                       - 1 - TabNavigator -
                                          - Screen 1
@@ -373,6 +374,7 @@ Root - StackNavigator -
                       - 2 - DrawerNavigator -
                                             - Screen 4
                                             - Screen 5
+```
 
 ##### Key Points: #####
 
@@ -384,21 +386,21 @@ Commit your practice code.
 
 → [index](#index)
 
-#### 5️⃣ Topic 5: Redux ####
+#### 🔟 Topic 10: Redux ####
 
 ##### 📖 Reading: #####
 
-1. [Redux]: [http://redux.js.org/](http://redux.js.org/)
+1. Redux: [http://redux.js.org/](http://redux.js.org/)
 
-2. [React Redux]: [http://redux.js.org/docs/basics/UsageWithReact.html](http://redux.js.org/docs/basics/UsageWithReact.html)
+2. React Redux: [http://redux.js.org/docs/basics/UsageWithReact.html](http://redux.js.org/docs/basics/UsageWithReact.html)
 
-3. [Navigation and redux]: [https://reactnavigation.org/docs/guides/redux](https://reactnavigation.org/docs/guides/redux)
+3. Navigation and redux: [https://reactnavigation.org/docs/guides/redux](https://reactnavigation.org/docs/guides/redux)
 
 ##### ✍️ Practice: #####
 
 1. Modify your previous project to support redux
 
-### Your First Project Starts Now! ###
+### Your First Project Starts Now 🤘! ###
 
 #### It’s time for the real thing. ####
 
