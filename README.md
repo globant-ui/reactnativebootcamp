@@ -1,10 +1,15 @@
 
-#React Native Boot Camp
+# React Native Boot Camp
 
-##The future of Mobile Applications is here!
-###Are you ready for it?
+<p align="right">
+  <img src="https://camo.githubusercontent.com/0f312f8f027645e809cc639173458e4f7a46a41e/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f616c7465726e6174697665732d746f2d6e61746976652d6d6f62696c652d646576656c6f706d656e742f72656163742d6e61746976652d6c6f676f2e706e67" width="300" />
+</p>
 
-####Index
+> The future of Mobile Applications is here! 📲
+> Are you ready for it? 👓
+
+
+#### Index
 
 1. [Objective](#objective)
 
@@ -44,20 +49,20 @@
 
 12. [Your First Project Starts Now!](#bookmark=id.605681dc8138)
 
-###Objective
+### Objective
 
 This course teaches the basics of React Native development. We want to help you create the best of breed user experiences and mobile applications.
 
 → [index](#index)
 
-###Who Should Attend
+### Who Should Attend
 
 The training will start at a low level, and does not require in depth knowledge of the platform in question. Desirable participant profile: trainees and outside Globant candidates. A basic knowledge on HTML, CSS, and JavaScript, React is desired, though.
 For React you can check React + Redux Bootcamp
 
 → [index](#index)
 
-###Duration
+### Duration
 
 Five weeks total.
 
@@ -65,11 +70,11 @@ Three weeks for guided learning and two weeks for app development.
 
 → [index](#index)
 
-###Technical Assistance
+### Technical Assistance
 
 You can contact other bootcamp participants or any available tutor if you need technical assistance. We will create one chat for boot camp members only, and another one for boot camp members and tutors when boot camp starts.
 
-###Performance Measurement
+### Performance Measurement
 
 1. Code review after each practice and sprint
 
@@ -78,13 +83,13 @@ You can contact other bootcamp participants or any available tutor if you need t
 → [index](#index)
 
 
-###Handling Advanced Developers
+### Handling Advanced Developers
 
 Developers that move faster than average can go ahead and complete as much exercises as wanted.
 
 → [index](#index)
 
-###Tools
+### Tools
 
 1. If you are on Windows you will need Android SDK and android emulator or device. On Mac you can add Xcode and iOS Simulator
 
@@ -99,7 +104,7 @@ Developers that move faster than average can go ahead and complete as much exerc
 → [index](#index)
 
 
-###General Guidelines
+### General Guidelines
 
 The boot camp is organized in the following way:
 
@@ -133,11 +138,11 @@ Here you will reach just your boot camp fellows for asking question sharing know
 
 → [index](#index)
 
-###Proposed Test Applications
+### Proposed Test Applications
 
 The test application will consist in a Last.fm client.
 
-###Environment Setup
+### Environment Setup
 
 Documentation (https://facebook.github.io/react-native/docs/getting-started.html)
 
@@ -147,23 +152,23 @@ Documentation (https://facebook.github.io/react-native/docs/getting-started.html
 
 3. Install watchman
 
-###Learning Days###
+### Learning Days ###
 
 Each day you will grab the fundamentals of the key building blocks for the next generation mobile apps.
 
 On each learning day you will have to:
 
-1. ####Read:####
+1. 📖 Read:
 We will provide you with documentation related with current sprint content so you can have a background reference, guide and examples to complete the following practice.
 
-2. ####Practice:####
+2. ✍️ Practice: 
 You will implement the previously gathered knowledge in simple coding activities.
 Most important task numbers are listed in the "*Key Points*" section for each day and they should get most of your attention; if you feel you don’t have enough time to complete all tasks, start with these ones when possible.
 
-3. ####Commit:####
+3. 📬 Commit: 
 You will commit all your code on a daily basis, when you finish your practice.
 
-### Introduction
+### Introduction 🚀
 
 At high level you could see the keys as:
 
@@ -171,11 +176,11 @@ At high level you could see the keys as:
 
 React Native is like React, but it uses native components instead of web components as building blocks. So to understand the basic structure of a React Native app, you need to understand some of the basic React concepts, like JSX, components, state, and props. If you already know React, you still need to learn some React-Native-specific stuff, like the native components.
 
-####[Topic 0: Getting started](https://facebook.github.io/react-native/docs/getting-started.html)
+#### 0️⃣ [Topic 0: Getting started](https://facebook.github.io/react-native/docs/getting-started.html)
 
-####Topic 1: UI - ReactJS####
+#### 1️⃣ Topic 1: UI - ReactJS ####
 
-#####Reading:#####
+##### 📖 Reading: #####
 
 1. [What is ReactJS?](http://facebook.github.io/react/). [Here](http://www.instrument.com/latest/an-introduction-to-react-js) is an introduction to it.
 
@@ -192,39 +197,39 @@ React Native is like React, but it uses native components instead of web compone
 7. Redux [Redux](http://redux.js.org/docs/introduction/) [React-Redux](http://redux.js.org/docs/basics/UsageWithReact.html)
 
 
-#####Extra reading:#####
+##### Extra reading: #####
 
 * [Full guide on ReactJS](https://scotch.io/tutorials/learning-react-getting-started-and-concepts).
 
 * [Read some ReactJS tips](https://facebook.github.io/react/tips/introduction.html).
 
-####Topic 2: Props & State####
+#### 2️⃣ Topic 2: Props & State ####
 
-#####Reading:#####
+##### 📖 Reading: #####
 
 1. Beginner [basic tutorial](https://facebook.github.io/react-native/docs/props.html#content)
 
 2. Beginner [basic tutorial](https://facebook.github.io/react-native/docs/state.html#content)
 
-####Topic 2: Style####
+#### 3️⃣ Topic 3: Style ####
 
-#####Reading:#####
+##### 📖 Reading: #####
 
 1. Beginner: React Native Style [basic tutorial](https://facebook.github.io/react-native/docs/style.html)
 
-####Topic 4: Components####
+#### 4️⃣ Topic 4: Components ####
 
 1. Beginner: Check the compoennts section and learn what they do [basic tutorial](https://facebook.github.io/react-native/docs/getting-started.html)
 
-####Topic 5: Handling touches####
+#### 5️⃣ Topic 5: Handling touches ####
 
 1. Beginner: [Handling touches](https://facebook.github.io/react-native/docs/handling-touches.html)
 
-####Topic 6: Networking####
+#### 6️⃣ Topic 6: Networking ####
 
 1. Beginner: [Networking](https://facebook.github.io/react-native/docs/network.html)
 
-#####Extra documentation:#####
+##### Extra documentation:#####
 
 * Understanding ECMAScript 6: [https://leanpub.com/understandinges6/read](https://leanpub.com/understandinges6/read)
 
@@ -232,7 +237,7 @@ React Native is like React, but it uses native components instead of web compone
 
 * Using Chrome console to debug JavaScript [https://developer.chrome.com/devtools/docs/console](https://developer.chrome.com/devtools/docs/console)
 
-#####Practice:#####
+##### ✍️ Practice: #####
 
 **Use Try to use as much ECMAScript 6 syntax as you can. Favor ```let``` and ```const``` over ```var```**
 
@@ -253,32 +258,33 @@ React Native is like React, but it uses native components instead of web compone
 
 8. Add a button and attach a touch event that loads the items in the list
 
-#####Key Points:#####
+
+##### Key Points: #####
 
 3, 5, 8
 
-#####Mobile Test:#####
+##### 📲 Mobile Test: #####
 
 Test your code in a mobile device or in Android emulator.
 
 Hint: A good option to test your code in a mobile device is to use Genymotion Android Emulator [http://www.genymotion.com/], which is one of the most fast and easy mobile emulators to install.
 
-#####Commit:#####
+##### Commit: #####
 
 Commit your practice code.
 
 → [index](#index)
 
-####Topic 2: Navigation - StackNavigator####
+#### 7️⃣ Topic 7: Navigation - StackNavigator ####
 In this Topic we will focus on learning how to use the React Native navigation library. This library is a third party as the built in navigation was deprecated because of performance issues
 
-#####Reading:#####
+##### 📖 Reading: #####
 
 1. Documentation on the differente navigators can be found here[https://reactnavigation.org/](https://reactnavigation.org/)
 
 2. Specific to StackNavigator [https://reactnavigation.org/docs/navigators/stack](https://reactnavigation.org/docs/navigators/stack)
 
-#####Practice:#####
+##### ✍️ Practice: #####
 
 1. Add a StackNavigator
 
@@ -294,23 +300,23 @@ In this Topic we will focus on learning how to use the React Native navigation l
 
 7. Show ```name``` and ```email```in the <Text> components
 
-#####Key Points:#####
+##### Key Points:#####
 
 1, 6, 7
 
-#####Commit:#####
+##### Commit:#####
 
 Commit your practice code.
 
 → [index](#index)
 
-####Topic 3: Navigation - TabNavigator####
+#### 8️⃣ Topic 8: Navigation - TabNavigator####
 
-#####Reading:#####
+##### 📖 Reading: #####
 
 1. [TabNavigator](https://reactnavigation.org/docs/navigators/tab).
 
-#####Practice:#####
+##### ✍️ Practice: #####
 
 1. Create a TabNavigator
 
@@ -319,42 +325,45 @@ Commit your practice code.
 3. On the third one add a nested StackNavigator with 2 Screens
 
 4. In each screen add a <Text>{Number of screen}</Text> at the top. Example:
+
+```html
 <Text>Screen 1</Text> // Tab 1
 <Text>Screen 2</Text> // Tab 2
 <Stack>               // Tab 3
     <Text>Screen 3.1</Text> This is the default
     <Text>Screen 3.2</Text>
 <Stack>
+```
 
 5. On screen 3.1 add a <Button> that when touched it navigates to Screeen 3.2
 
-#####Key Points:#####
+##### Key Points:#####
 
 1, 4, 5
 
-#####Mobile Test:#####
+##### Mobile Test:#####
 
 Test your code in a mobile device or in Android emulator.
 
-#####Commit:#####
+##### Commit:#####
 
 Commit your practice code.
 
 → [index](#index)
 
-####Topic 4: Navigation - DrawerNavigator####
+#### 9️⃣ Topic 9: Navigation - DrawerNavigator ####
 
-#####Reading:#####
+##### 📖 Reading: #####
 
 1. [DrawerNavigator]: [https://reactnavigation.org/docs/navigators/drawer](https://reactnavigation.org/docs/navigators/drawer)
 
 2. [Nesting navigators]: [https://reactnavigation.org/docs/intro/nesting] (https://reactnavigation.org/docs/intro/nesting)
 
-#####Practice:#####
+##### ✍️ Practice: #####
 
 1. Modify your previous project to get this navigation structure
 
-
+```
 Root - StackNavigator -
                       - 1 - TabNavigator -
                                          - Screen 1
@@ -365,34 +374,35 @@ Root - StackNavigator -
                       - 2 - DrawerNavigator -
                                             - Screen 4
                                             - Screen 5
+```
 
-#####Key Points:#####
+##### Key Points: #####
 
 1
 
-#####Commit:#####
+##### Commit: #####
 
 Commit your practice code.
 
 → [index](#index)
 
-####Topic 5: Redux####
+#### 🔟 Topic 10: Redux ####
 
-#####Reading:#####
+##### 📖 Reading: #####
 
-1. [Redux]: [http://redux.js.org/](http://redux.js.org/)
+1. Redux: [http://redux.js.org/](http://redux.js.org/)
 
-2. [React Redux]: [http://redux.js.org/docs/basics/UsageWithReact.html](http://redux.js.org/docs/basics/UsageWithReact.html)
+2. React Redux: [http://redux.js.org/docs/basics/UsageWithReact.html](http://redux.js.org/docs/basics/UsageWithReact.html)
 
-3. [Navigation and redux]: [https://reactnavigation.org/docs/guides/redux](https://reactnavigation.org/docs/guides/redux)
+3. Navigation and redux: [https://reactnavigation.org/docs/guides/redux](https://reactnavigation.org/docs/guides/redux)
 
-#####Practice:#####
+##### ✍️ Practice: #####
 
 1. Modify your previous project to support redux
 
-###Your First Project Starts Now!###
+### Your First Project Starts Now 🤘! ###
 
-####It’s time for the real thing.####
+#### It’s time for the real thing. ####
 
 You will work on a project to achieve a fully working multi platform mobile app developed in React Native.
 
@@ -405,13 +415,13 @@ Once estimated, user stories will be divided into sprints of one week.
 You will participate on daily scrum meetings.
 Will you be able to consult documentation? Of course! You will be able to use any resource you know that helps you complete your user stories, be it going back to documentation sites, tutorials or just googling what you need. Luckily the web is plenty of awesome resources waiting for you to grasp them!
 
-####Commits####
+#### Commits ####
 
 You will commit your code to GitHub on a daily basis.
 
-####Reviews####
+#### Reviews ####
 
-Tutors will give you feedback at the end of each sprint by reviewing and commenting your committed code in GitHub. If possible tutors will give you even more frequent feedback, sometimes at the end of the day.
+👮 Tutors will give you feedback at the end of each sprint by reviewing and commenting your committed code in GitHub. If possible tutors will give you even more frequent feedback, sometimes at the end of the day.
 
 → [index](#index)
 
