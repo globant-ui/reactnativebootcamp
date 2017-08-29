@@ -1,7 +1,7 @@
 
-#HTML5 Boot Camp
+#React Native Boot Camp
 
-##The future of Web Applications is here!
+##The future of Mobile Applications is here!
 ###Are you ready for it?
 
 ####Index
@@ -24,34 +24,36 @@
 
 9. [Proposed Test Applications](#proposed-test-applications)
 
-10. [Environment Setup]
+10. [Environment Setup](#environment-setup)
 
 11. [Learning Days](#learning-days)
 
-    * [Topic 0: HTML & CSS Basics](#topic-0-html--css-basics)
+    * [Topic 0: Getting started](#topic-0-getting-started)
 
-    * [Topic 1: JavaScript, and DOM APIs](#topic-1-javascript-intro-and-jquery)
+    * [Topic 1: ReactJS](#topic-1-reactjs)
 
-    * [Topic 2: OOP and Inheritance in JavaScript](#topic-2-design-patterns-and-oop-in-javascript-3-days)
+    * [Topic 2: Prop & State](#topic-2-props-state)
 
-    * [Topic 3: MVC - AngularJS](#topic-3-mvc---angularjs)
+    * [Topic 3: Style](#topic-3-style)
 
-    * [Topic 4: HTML5 APIs](#topic-4-html5-apis)
+    * [Topic 4: Components](#topic-4-components)
 
-    * [Topic 5 (Optional): UI - ReactJS](#topic-5-optional-ui---reactjs)
+    * [Topic 5: Handling touches](#topic-5-handling-touches)
 
+    * [Topic 6: Networking](#topic-6-networking)
 
 12. [Your First Project Starts Now!](#bookmark=id.605681dc8138)
 
 ###Objective
 
-This course teaches the basics of modern Web UI development. We want to help you create the best of breed user experiences, gaming, and mobile applications.
+This course teaches the basics of React Native development. We want to help you create the best of breed user experiences and mobile applications.
 
 → [index](#index)
 
 ###Who Should Attend
 
-The training will start at a low level, and does not require in depth knowledge of the platform in question. Desirable participant profile: trainees and outside Globant candidates. A basic knowledge on HTML, CSS, and JavaScript is desired, though.
+The training will start at a low level, and does not require in depth knowledge of the platform in question. Desirable participant profile: trainees and outside Globant candidates. A basic knowledge on HTML, CSS, and JavaScript, React is desired, though.
+For React you can check React + Redux Bootcamp
 
 → [index](#index)
 
@@ -84,24 +86,17 @@ Developers that move faster than average can go ahead and complete as much exerc
 
 ###Tools
 
-1. At least, three different browsers installed on the developer machine. Example, Chrome, Firefox, and the Android browser using Android's emulator.
+1. If you are on Windows you will need Android SDK and android emulator or device. On Mac you can add Xcode and iOS Simulator
 
-2. The IDE to use is [SublimeText](http://www.sublimetext.com/).
+2. Install Node and NPM [NodeJS LTS](https://nodejs.org/en/download/)
 
-3. Skype Account + headset (audio calls)
+3. The IDE to use is [Visual Studio Code](https://www.visualstudio.com/downloads/).
 
-4. Create your own[ GitHub](https://github.com/) account. Follow this[ guideline](https://help.github.com/articles/set-up-git) to setup your account.
+4. Skype Account + headset (audio calls), Slack
 
-5. Install your own NodeJS server.
-  * Download [NodeJS](http://nodejs.org/)
-  * Install `http-server` globally, by running `npm install -g http-server`
-  * To start the server, from a command line interface, run `http-server` in the directory where you will clone the startup repo
-  * Open your web browser and point to localhost:PORT (the `http-server` should have outputted the number of PORT you should use)
-
-6. Fork this repo [https://github.com/globant-ui/startup](https://github.com/globant-ui/startup) to use as a base to host the project code.
+5. Create your own[ GitHub](https://github.com/) account. Follow this[ guideline](https://help.github.com/articles/set-up-git) to setup your account.
 
 → [index](#index)
-
 
 
 ###General Guidelines
@@ -120,10 +115,10 @@ The boot camp is organized in the following way:
 
 6. Two boot camp chats will be created for feedback and technical assistance:
 
-    1. Bootcamp HTML - ALL
+    1. Bootcamp React Native - ALL
 Every person participating in the bootcamp is present here (students, tutors and PMs). Here is the place to ask for technical assistance!
 
-    2. Bootcamp HTML - Assistants
+    2. Bootcamp React Native - Assistants
 Here you will reach just your boot camp fellows for asking question sharing knowledge.
 
 7. Team play is encouraged but the work will be evaluated per person.
@@ -142,9 +137,19 @@ Here you will reach just your boot camp fellows for asking question sharing know
 
 The test application will consist in a Last.fm client.
 
+###Environment Setup
+
+Documentation (https://facebook.github.io/react-native/docs/getting-started.html)
+
+1. Install NodeJS
+
+2. Install React Native client ```npm install -g react-native-cli```
+
+3. Install watchman
+
 ###Learning Days###
 
-Each day you will grab the fundamentals of the key building blocks for the next generation mobile apps; yeah, web apps! Web apps powered by the latest, and coolest toolkits, and techniques.
+Each day you will grab the fundamentals of the key building blocks for the next generation mobile apps.
 
 On each learning day you will have to:
 
@@ -162,246 +167,13 @@ You will commit all your code on a daily basis, when you finish your practice.
 
 At high level you could see the keys as:
 
-![technologies logos](assets/html5-css-javascript.png "The platform")
+![technologies logos](assets/RN_logo.png "The platform")
 
-HTML describes the content semantics and structure of a web page. It was designed as a markup language, if you know XML, you could consider HTML as a subset of XML with a predefined semantic.
+React Native is like React, but it uses native components instead of web components as building blocks. So to understand the basic structure of a React Native app, you need to understand some of the basic React concepts, like JSX, components, state, and props. If you already know React, you still need to learn some React-Native-specific stuff, like the native components.
 
-On the other hand, CSS allows to define the look and feel of the content. It's used to set colors on HTML elements, customize sizes, define the layout of the document content, among others. (e.x. "The following list of elements must be shown as a menu", "The main title of the page should use this particular font").
+####[Topic 0: Getting started](https://facebook.github.io/react-native/docs/getting-started.html)
 
-JavaScript is a programming language that runs in all Web Browsers. Using JavaScript we can create full-fledge web applications.
-
-Now that you know which are the three pilars of a web application's UI, it's time to dive into them.
-
-####[Topic 0: HTML & CSS Basics](https://github.com/globant-ui/css-lab)
-
-####Topic 1: JavaScript, and DOM APIs####
-
-#####Reading:#####
-
-1. Beginner: Eloquent JavaScript 2nd Edition [basic tutorial](http://eloquentjavascript.net/) (in case you need it!)
-
-2. Beginner to advance: [Speaking JavaScript: An In-Depth Guide for Programmers](http://speakingjs.com/)
-
-3. Recommended: [devdocs.io](http://devdocs.io/) to check Web platform documentation around JavaScript, frameworks, Browser APIs, etc
-
-#####Extra documentation:#####
-
-* Web Platform Documentation Project: [http://www.webplatform.org/](http://www.webplatform.org/)
-
-* MDN JavaScript Reference: [https://developer.mozilla.org/en/JavaScript/Reference](https://developer.mozilla.org/en/JavaScript/Reference)
-
-* Understanding ECMAScript 6: [https://leanpub.com/understandinges6/read](https://leanpub.com/understandinges6/read)
-
-* [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/) *For really advanced developers*
-
-* JSONP and CORS: [http://json-p.org/](http://json-p.org/) - [http://www.html5rocks.com/en/tutorials/cors/](http://www.html5rocks.com/en/tutorials/cors/)
-
-* Using Chrome console to debug JavaScript [https://developer.chrome.com/devtools/docs/console](https://developer.chrome.com/devtools/docs/console)
-
-#####Practice:#####
-
-**Use latest IE, Chrome, or Firefox browser to develop. Try to use as much ECMAScript 6 syntax as you can. Favor ```let``` and ```const``` over ```var```**
-
-1. Open your IDE, create a new file text, save it as index.html. Add the correct doctype, and a few tags with random content.
-
-2. Add a stylesheet to the index.html. Use the stylesheet to center the text of all ```section``` elements of the page.
-
-3. Add a hidden ```section``` with the following text inside: "Hello world".
-
-4. When the page has finished loading the section must fade in. *Hint: Use JavaScript, Browser Events, and CSS3*
-
-5. Add a button below the ```section``` to your index.html.
-
-6. Attach a click event to the created button which calls a function that gets a response from [http://api.icndb.com/jokes/random](http://api.icndb.com/jokes/random). Write the response to the ```section``` element. *Hint: use the XMLHttpRequest to fetch data from the service*
-
-7. From the previous exercise create a reusable function to perform AJAX calls. The function must accept a ```config``` object and return an ES6 Promise.
-
-8. Show ```section``` content in red when a server error occurs.
-
-9. Use the function created in exercise 6 to get the response from [https://api.github.com/search/repositories](https://api.github.com/search/repositories) with parameters data "q = 'JavaScript'". First log the service response in Chrome's console to analyze data (see provided link on Chrome console), then display repository's ```full_name``` as a list in the right side of the screen. The ```ul``` element must be used to list the repositories data.
-
-10. Add an input type="text", and reuse the code for exercise 9, so the user can perform search for any repository.
-
-11. Validate your page using W3C validator: [https://addons.mozilla.org/en-US/firefox/addon/web-developer/](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
-
-12. Write a function that takes as input a matrix of data and outputs a DOM structure representing a table. Attach it to the body of a given page. *Hint: use ```document.createElement```, ```document.createTextNode```, and ```Node.appendChild``` methods*
-
-#####Key Points:#####
-
-4, 7, 10, 12
-
-#####Mobile Test:#####
-
-Test your code in a mobile device or in Android emulator.
-
-Hint: A good option to test your code in a mobile device is to use Genimotion Android Emulator [http://www.genymotion.com/], which is one of the most fast and easy mobile emulators to install.
-
-#####Commit:#####
-
-Commit your practice code.
-
-→ [index](#index)
-
-####Topic 2: Design Patterns and OOP in JavaScript####
-In this Topic we will focus on learning how JavaScript approaches Object-Oriented programming. If you come from Java, or .NET you will find yourself a little bit lost at the beggining. ECMAScript6 provides a layer of syntactic sugar over the previous version(5.1) that is expected to simplify the language.
-
-#####Reading:#####
-
-1. Understand how *prototypes* works in ECMAScript 5.1 [http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
-
-2. ECMAScript 6 New Features: [http://es6-features.org/](http://es6-features.org/). You can compare ECMAScript 5 and 6 code.
-
-3. Read the Chapter on JavaScript classes from [*Understanding ECMAScript6*](https://leanpub.com/understandinges6/read#leanpub-auto-classes) 
-
-4. Read about [ES6 Modules](https://ponyfoo.com/articles/es6-modules-in-depth)  
-
-5. Extra: Read about AMD, CommonJS, and ES6 Modules [Writing Modular JavaScript](http://addyosmani.com/blog/writing-modular-javascript/) 
-
-6. An overview on all the features ECMAScript provides [https://github.com/lukehoban/es6features](https://github.com/lukehoban/es6features) 
-
-#####Practice:#####
-
-1. Create a Movie object:
-
-    <table>
-        <tr>
-            <td>Movie</td>
-        </tr>
-        <tr>
-            <td>- title <br />- year <br />- duration</td>
-        </tr>
-        <tr>
-            <td>+ play() <br />+ pause()<br />+ resume()<br /></td>
-        </tr>
-    </table>
-
-2. Instantiate some of your favorite movies and play with them in the console.
-
-3. Create an EventEmitter class with the following methods: ```on```, ```emit```, ```off```. The ```on``` method will allow to pass a callback or **listener** that will be executed each time a given event is triggered. The ```emit``` method will allow a class to trigger events to be consumed by other functions/objects. The ```off``` method will delete the listener.
-
-4. Make Movie a subclass of EventEmitter. Publish "*play*" event on Movie.play(), "*pause*" event on Movie.pause(), and "*resume*" event on Movie.resume()
-
-5. Create a Logger class with a ```log(info)``` method that will output ```info``` to the console. Make ```log``` listen to a Movie's 'play' event. You should be able to do something like this in the console:
-
-    ```js
-    let terminator = new Movie('Terminator', 1984, 90);
-    let logger = new Logger();
-    terminator.on('play', logger.log);
-    // ...
-    terminator.play(); // output: The 'play' event has been emitted
-    ```
-
-6. Create an object called Social with methods share(friendName) and like(friendName) that will generate the following output "{friendName} likes/share {Movie Name}". *Hint: declare Social as an object literal, use Object.assign to mix Social methods into a Movie instance. Use Template Literals to generate the like/share method output*. You should be able to do something like this in the console:
-
-    ```js
-    ironman.share('Mike Blossom'); // output: Share Iron Man with Mike Blossom
-    ```
-
-7. Create an Actor class and create some actors from one of your favorite movies.
-
-8. Add a method to Movie that will allow to add one or more actors at the same time.
-   ```js
-   let terminator = new Movie('Terminator I', 1985, 60);
-   let arnold = new Actor('Arnold Schwarzenegger', 50);
-   let otherCast = [
-     new Actor('Paul Winfield', 50),
-     new Actor('Michael Biehn', 50),
-     new Actor('Linda Hamilton', 50)
-   ];
-
-   terminator.addCast(arnold);
-   terminator.addCast(otherCast); //Movie must contain an array of 4 actors
-   ```
-9. Using ES6 Modules split all your classes declarations into diferent files. Use Babel to create a single bundle. *Hint: check this [tutorial](https://babeljs.io/docs/usage/cli/)*
-
-#####Key Points:#####
-
-5, 6, 8, 9
-
-#####Commit:#####
-
-Commit your practice code.
-
-→ [index](#index)
-
-####Topic 3: MVC - AngularJS####
-
-#####Reading:#####
-
-1. [Ultimate guide to learn Angular.js in one day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/).
-
-2. Read Angular.js's [Developers Guide](https://docs.angularjs.org/guide).
-
-3. Check your code to comply with Angular.js's [Best Practices](https://github.com/angular/angular.js/wiki/Best-Practices).
-
-4. Check your code to avoid Angular.js's [Anti-patterns](https://github.com/angular/angular.js/wiki/Anti-Patterns)
-
-5. Learn how to create unit tests for your angular.js applications [https://docs.angularjs.org/guide/unit-testing](https://docs.angularjs.org/guide/unit-testing)
-
-#####Practice:#####
-
-1. Create a movie listing with your favorite movies. Data shall be persisted in localhost.
-
-2. Show movie details in a separate details view.
-
-3. Allow to add / edit / remove movies from the list.
-
-4. Configure Karma and write tests for your application.
-
-Tips:
-* Learn how to use [components](https://docs.angularjs.org/guide/component) to structure your application
-
-#####Key Points:#####
-
-1, 2, 3
-
-#####Mobile Test:#####
-
-Test your code in a mobile device or in Android emulator.
-
-#####Commit:#####
-
-Commit your practice code.
-
-→ [index](#index)
-
-####Topic 4: HTML5 APIs####
-
-#####Reading:#####
-
-1. Take a glimpse into HTML5 APIs: [http://www.html5rocks.com/en/](http://www.html5rocks.com/en/)
-
-2. Now, take a deep dive into HTML5: [http://diveintohtml5.info/](http://diveintohtml5.info/) (optional)
-
-3. Understand the capabilities the Web has to offer right now [https://whatwebcando.today/](https://whatwebcando.today/) 
-
-#####Practice:#####
-
-1. Create a page with a textarea and a save button. Save textarea content's when the user clicks on save. Use both localStorage and IndexedDB.
-
-2. Add a clear button to erase saved content.
-
-3. Add drag and drop support to load text files.
-
-4. Open a web socket and test it against [this echo service](http://www.websocket.org/echo.html).
-
-5. Create a web page with a canvas element. Upon page load draw basic geometric figures with random colors and strokes.
-
-6. Using the Canvas API animate a rectangle's position on the screen. Make sure not to use setTimeout but requestTimeFrame to perform the animation.
-
-7. Create a web page with a SVG element to show a vector graphic. Make sure you understand when is better to use SVG instead of bitmaps, and viceversa.
-
-#####Key Points:#####
-
-1, 3, 4, 7
-
-#####Commit:#####
-
-Commit your practice code.
-
-→ [index](#index)
-
-####Topic 5 (Optional): UI - ReactJS####
+####Topic 1: UI - ReactJS####
 
 #####Reading:#####
 
@@ -417,6 +189,8 @@ Commit your practice code.
 
 6. Try on using [Reactify](https://github.com/andreypopp/reactify) [ReactJS + Browserify workflow](https://www.codementor.io/reactjs/tutorial/react-js-browserify-workflow-part-1).
 
+7. Redux [Redux](http://redux.js.org/docs/introduction/) [React-Redux](http://redux.js.org/docs/basics/UsageWithReact.html)
+
 
 #####Extra reading:#####
 
@@ -424,29 +198,139 @@ Commit your practice code.
 
 * [Read some ReactJS tips](https://facebook.github.io/react/tips/introduction.html).
 
+####Topic 2: Props & State####
+
+#####Reading:#####
+
+1. Beginner [basic tutorial](https://facebook.github.io/react-native/docs/props.html#content)
+
+2. Beginner [basic tutorial](https://facebook.github.io/react-native/docs/state.html#content)
+
+####Topic 2: Style####
+
+#####Reading:#####
+
+1. Beginner: React Native Style [basic tutorial](https://facebook.github.io/react-native/docs/style.html)
+
+####Topic 4: Components####
+
+1. Beginner: Check the compoennts section and learn what they do [basic tutorial](https://facebook.github.io/react-native/docs/getting-started.html)
+
+####Topic 5: Handling touches####
+
+1. Beginner: [Handling touches](https://facebook.github.io/react-native/docs/handling-touches.html)
+
+####Topic 6: Networking####
+
+1. Beginner: [Networking](https://facebook.github.io/react-native/docs/network.html)
+
+#####Extra documentation:#####
+
+* Understanding ECMAScript 6: [https://leanpub.com/understandinges6/read](https://leanpub.com/understandinges6/read)
+
+* [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/) *For really advanced developers*
+
+* Using Chrome console to debug JavaScript [https://developer.chrome.com/devtools/docs/console](https://developer.chrome.com/devtools/docs/console)
 
 #####Practice:#####
 
-1. Create the needed components to allow the user create a new Movie.
+**Use Try to use as much ECMAScript 6 syntax as you can. Favor ```let``` and ```const``` over ```var```**
 
-2. Create the needed components to show a list of your favorite Movies.
+1. Create a new React Native proyect using the react native client.
 
-3. Create the needed components to allow the user edit a Movie.
+2. In the root page create two lines of text - 1 - "Hello" and 2 - "World"
 
-4. Update the movie listing to allow the user delete movies.
+3. Add some styles to center the text and set a blue color
 
-5. Update the application to use ReactRouter and Flux.
+4. Add a button below the text, to your component.
 
-**Tips:**
-- First, try to think which should be your app structure (in terms of components).
-- Second, figure out which component should handle the movies.
-- You should create a component when trying to create a view (a view is also a component).
-- To update the application with ReactRouter and Flux you may split out the add logic and the display logic into two views.
-  Also you may provide the data storage (object) responsibility to Flux's storages.
+5. Attach a touch event to the created button which calls a function that changes the text to 
+"React Native" and "Bootcamp"
+
+6. Add a list to the page
+
+7. Create a service that fetches from ```https://jsonplaceholder.typicode.com/user```
+
+8. Add a button and attach a touch event that loads the items in the list
 
 #####Key Points:#####
 
-1, 2, 4.
+3, 5, 8
+
+#####Mobile Test:#####
+
+Test your code in a mobile device or in Android emulator.
+
+Hint: A good option to test your code in a mobile device is to use Genymotion Android Emulator [http://www.genymotion.com/], which is one of the most fast and easy mobile emulators to install.
+
+#####Commit:#####
+
+Commit your practice code.
+
+→ [index](#index)
+
+####Topic 2: Navigation - StackNavigator####
+In this Topic we will focus on learning how to use the React Native navigation library. This library is a third party as the built in navigation was deprecated because of performance issues
+
+#####Reading:#####
+
+1. Documentation on the differente navigators can be found here[https://reactnavigation.org/](https://reactnavigation.org/)
+
+2. Specific to StackNavigator [https://reactnavigation.org/docs/navigators/stack](https://reactnavigation.org/docs/navigators/stack)
+
+#####Practice:#####
+
+1. Add a StackNavigator
+
+2. Create a new page with two <Text> compoents
+
+3. Inside each teaxt add ```name``` and ```email``` of the user
+
+4. Using the previous work, add a touch event on the list items.
+
+5. Add a touch event on the list items
+
+6. When an item is touched we should naigate to the new page passing the user as an argument
+
+7. Show ```name``` and ```email```in the <Text> components
+
+#####Key Points:#####
+
+1, 6, 7
+
+#####Commit:#####
+
+Commit your practice code.
+
+→ [index](#index)
+
+####Topic 3: Navigation - TabNavigator####
+
+#####Reading:#####
+
+1. [TabNavigator](https://reactnavigation.org/docs/navigators/tab).
+
+#####Practice:#####
+
+1. Create a TabNavigator
+
+2. Create 2 Screens for 2 of the tabs
+
+3. On the third one add a nested StackNavigator with 2 Screens
+
+4. In each screen add a <Text>{Number of screen}</Text> at the top. Example:
+<Text>Screen 1</Text> // Tab 1
+<Text>Screen 2</Text> // Tab 2
+<Stack>               // Tab 3
+    <Text>Screen 3.1</Text> This is the default
+    <Text>Screen 3.2</Text>
+<Stack>
+
+5. On screen 3.1 add a <Button> that when touched it navigates to Screeen 3.2
+
+#####Key Points:#####
+
+1, 4, 5
 
 #####Mobile Test:#####
 
@@ -458,11 +342,59 @@ Commit your practice code.
 
 → [index](#index)
 
+####Topic 4: Navigation - DrawerNavigator####
+
+#####Reading:#####
+
+1. [DrawerNavigator]: [https://reactnavigation.org/docs/navigators/drawer](https://reactnavigation.org/docs/navigators/drawer)
+
+2. [Nesting navigators]: [https://reactnavigation.org/docs/intro/nesting] (https://reactnavigation.org/docs/intro/nesting)
+
+#####Practice:#####
+
+1. Modify your previous project to get this navigation structure
+
+
+Root - StackNavigator -
+                      - 1 - TabNavigator -
+                                         - Screen 1
+                                         - Screen 2
+                                         - Screeen3 (StackNavigator) -
+                                                          - Screen 3.1
+                                                          - Screen 3.2  
+                      - 2 - DrawerNavigator -
+                                            - Screen 4
+                                            - Screen 5
+
+#####Key Points:#####
+
+1
+
+#####Commit:#####
+
+Commit your practice code.
+
+→ [index](#index)
+
+####Topic 5: Redux####
+
+#####Reading:#####
+
+1. [Redux]: [http://redux.js.org/](http://redux.js.org/)
+
+2. [React Redux]: [http://redux.js.org/docs/basics/UsageWithReact.html](http://redux.js.org/docs/basics/UsageWithReact.html)
+
+3. [Navigation and redux]: [https://reactnavigation.org/docs/guides/redux](https://reactnavigation.org/docs/guides/redux)
+
+#####Practice:#####
+
+1. Modify your previous project to support redux
+
 ###Your First Project Starts Now!###
 
 ####It’s time for the real thing.####
 
-You will work on a project to achieve a fully working multi platform mobile app developed in JavaScript and using the latest tags and APIs available in HTML5.
+You will work on a project to achieve a fully working multi platform mobile app developed in React Native.
 
 You will apply all the knowledge obtained during the learning weeks.
 
