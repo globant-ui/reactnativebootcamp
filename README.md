@@ -91,7 +91,11 @@ Developers that move faster than average can go ahead and complete as much exerc
 
 ### Tools
 
-1. If you are on Windows you will need Android SDK and android emulator or device. On Mac you can add Xcode and iOS Simulator
+1. If you are on Windows you will need Android SDK and android emulator or device. 
+   On Linux you will need Android SDK and android emulator or device.
+   On Mac you can add Xcode and iOS Simulator or Android SDK and android emulator or device.
+
+   Note: For Android we recommend installing Andoid Studio, that comes with SDK
 
 2. Install Node and NPM [NodeJS LTS](https://nodejs.org/en/download/)
 
