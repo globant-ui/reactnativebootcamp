@@ -99,7 +99,7 @@ Developers that move faster than average can go ahead and complete as much exerc
 
 2. Install Node and NPM [NodeJS LTS](https://nodejs.org/en/download/)
 
-3. The IDE to use is [Visual Studio Code](https://www.visualstudio.com/downloads/).
+3. The IDE to use is [Visual Studio Code](https://www.visualstudio.com/downloads/). But you can use the edit of your choice Atom, Sublime, WebStorm, etc
 
 4. Skype Account + headset (audio calls), Slack
 
