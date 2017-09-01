@@ -37,7 +37,7 @@
 
     * [Topic 0: Getting started](#topic-0-getting-started)
 
-    * [Topic 1: ReactJS](#topic-1-reactjs)
+    * [Topic 1: UI - ReactJS](#topic-1-ui---reactjs)
 
     * [Topic 2: Prop & State](#topic-2-props-state)
 
@@ -49,7 +49,9 @@
 
     * [Topic 6: Networking](#topic-6-networking)
 
-13. [Your First Project Starts Now!](#bookmark=id.605681dc8138)
+13. [Commits](#commits)
+
+14. [Reviews](#reviews)
 
 ### Objective
 
@@ -162,7 +164,7 @@ Documentation (https://facebook.github.io/react-native/docs/getting-started.html
 
 → [index](#index)
 
-### Learning Days ###
+### Learning Days
 
 Each day you will grab the fundamentals of the key building blocks for the next generation mobile apps.
 
@@ -180,7 +182,7 @@ You will commit all your code on a daily basis, when you finish your practice.
 
 → [index](#index)
 
-### Introduction 🚀
+### Introduction
 
 At high level you could see the keys as:
 
@@ -190,7 +192,7 @@ React Native is like React, but it uses native components instead of web compone
 
 → [index](#index)
 
-#### 0️⃣ Topic 0: Getting started
+#### Topic 0: Getting started
 
 → [index](#index)
 
@@ -198,7 +200,7 @@ React Native is like React, but it uses native components instead of web compone
 
 1. Start guide [Geting started](https://facebook.github.io/react-native/docs/getting-started.html)
 
-#### 1️⃣ Topic 1: UI - ReactJS ####
+#### Topic 1: UI - ReactJS
 
 → [index](#index)
 
@@ -224,7 +226,7 @@ React Native is like React, but it uses native components instead of web compone
 
 * [Read some ReactJS tips](https://facebook.github.io/react/tips/introduction.html).
 
-#### 2️⃣ Topic 2: Props & State ####
+#### Topic 2: Props & State
 
 → [index](#index)
 
@@ -234,7 +236,7 @@ React Native is like React, but it uses native components instead of web compone
 
 2. Beginner [basic tutorial](https://facebook.github.io/react-native/docs/state.html#content)
 
-#### 3️⃣ Topic 3: Style ####
+#### Topic 3: Style
 
 → [index](#index)
 
@@ -242,19 +244,19 @@ React Native is like React, but it uses native components instead of web compone
 
 1. Beginner: React Native Style [basic tutorial](https://facebook.github.io/react-native/docs/style.html)
 
-#### 4️⃣ Topic 4: Components ####
+#### Topic 4: Components
 
 → [index](#index)
 
 1. Beginner: Check the compoennts section and learn what they do [basic tutorial](https://facebook.github.io/react-native/docs/getting-started.html)
 
-#### 5️⃣ Topic 5: Handling touches ####
+#### Topic 5: Handling touches
 
 → [index](#index)
 
 1. Beginner: [Handling touches](https://facebook.github.io/react-native/docs/handling-touches.html)
 
-#### 6️⃣ Topic 6: Networking ####
+#### Topic 6: Networking
 
 → [index](#index)
 
@@ -306,7 +308,7 @@ Commit your practice code.
 
 → [index](#index)
 
-#### 7️⃣ Topic 7: Navigation - StackNavigator ####
+#### Topic 7: Navigation - StackNavigator
 In this Topic we will focus on learning how to use the React Native navigation library. This library is a third party as the built in navigation was deprecated because of performance issues
 
 ##### 📖 Reading: #####
@@ -341,7 +343,7 @@ Commit your practice code.
 
 → [index](#index)
 
-#### 8️⃣ Topic 8: Navigation - TabNavigator####
+####Topic 8: Navigation - TabNavigator
 
 ##### 📖 Reading: #####
 
@@ -382,7 +384,7 @@ Commit your practice code.
 
 → [index](#index)
 
-#### 9️⃣ Topic 9: Navigation - DrawerNavigator ####
+#### Topic 9: Navigation - DrawerNavigator
 
 ##### 📖 Reading: #####
 
