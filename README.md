@@ -31,6 +31,8 @@
 
 10. [Environment Setup](#environment-setup)
 
+11. [Introduction](#Introduction)
+
 11. [Learning Days](#learning-days)
 
     * [Topic 0: Getting started](#topic-0-getting-started)
@@ -180,7 +182,11 @@ At high level you could see the keys as:
 
 React Native is like React, but it uses native components instead of web components as building blocks. So to understand the basic structure of a React Native app, you need to understand some of the basic React concepts, like JSX, components, state, and props. If you already know React, you still need to learn some React-Native-specific stuff, like the native components.
 
-#### 0️⃣ [Topic 0: Getting started](https://facebook.github.io/react-native/docs/getting-started.html)
+#### 0️⃣ Topic 0: Getting started
+
+##### 📖 Reading: #####
+
+1. Start guide [Geting started](https://facebook.github.io/react-native/docs/getting-started.html)
 
 #### 1️⃣ Topic 1: UI - ReactJS ####
 
