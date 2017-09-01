@@ -31,9 +31,9 @@
 
 10. [Environment Setup](#environment-setup)
 
-11. [Introduction](#Introduction)
+11. [Learning Days](#learning-days)
 
-12. [Learning Days](#learning-days)
+12. [Introduction](#Introduction)
 
     * [Topic 0: Getting started](#topic-0-getting-started)
 
