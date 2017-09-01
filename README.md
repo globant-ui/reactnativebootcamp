@@ -33,7 +33,7 @@
 
 11. [Introduction](#Introduction)
 
-11. [Learning Days](#learning-days)
+12. [Learning Days](#learning-days)
 
     * [Topic 0: Getting started](#topic-0-getting-started)
 
@@ -49,7 +49,7 @@
 
     * [Topic 6: Networking](#topic-6-networking)
 
-12. [Your First Project Starts Now!](#bookmark=id.605681dc8138)
+13. [Your First Project Starts Now!](#bookmark=id.605681dc8138)
 
 ### Objective
 
