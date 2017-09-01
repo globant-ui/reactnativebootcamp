@@ -49,6 +49,14 @@
 
     * [Topic 6: Networking](#topic-6-networking)
 
+    * [Topic 7: Navigation - StackNavigator](#topic-7-navigation---stacknavigator)
+
+    * [Topic 8: Navigation - TabNavigator](#topic-8-navigation---tabnavigator)
+
+    * [Topic 9: Navigation - DrawerNavigator](#topic-9-navigation---drawernavigator)
+
+    * [Topic 10: Redux](#topic-10-redux)
+
 13. [Commits](#commits)
 
 14. [Reviews](#reviews)
@@ -343,7 +351,7 @@ Commit your practice code.
 
 → [index](#index)
 
-####Topic 8: Navigation - TabNavigator
+#### Topic 8: Navigation - TabNavigator
 
 ##### 📖 Reading: #####
 
@@ -419,7 +427,7 @@ Commit your practice code.
 
 → [index](#index)
 
-#### 🔟 Topic 10: Redux ####
+#### Topic 10: Redux
 
 ##### 📖 Reading: #####
 
