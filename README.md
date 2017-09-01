@@ -148,6 +148,8 @@ Here you will reach just your boot camp fellows for asking question sharing know
 
 The test application will consist in a Last.fm client.
 
+→ [index](#index)
+
 ### Environment Setup
 
 Documentation (https://facebook.github.io/react-native/docs/getting-started.html)
@@ -157,6 +159,8 @@ Documentation (https://facebook.github.io/react-native/docs/getting-started.html
 2. Install React Native client ```npm install -g react-native-cli```
 
 3. Install watchman
+
+→ [index](#index)
 
 ### Learning Days ###
 
@@ -174,6 +178,8 @@ Most important task numbers are listed in the "*Key Points*" section for each da
 3. 📬 Commit: 
 You will commit all your code on a daily basis, when you finish your practice.
 
+→ [index](#index)
+
 ### Introduction 🚀
 
 At high level you could see the keys as:
@@ -182,13 +188,19 @@ At high level you could see the keys as:
 
 React Native is like React, but it uses native components instead of web components as building blocks. So to understand the basic structure of a React Native app, you need to understand some of the basic React concepts, like JSX, components, state, and props. If you already know React, you still need to learn some React-Native-specific stuff, like the native components.
 
+→ [index](#index)
+
 #### 0️⃣ Topic 0: Getting started
+
+→ [index](#index)
 
 ##### 📖 Reading: #####
 
 1. Start guide [Geting started](https://facebook.github.io/react-native/docs/getting-started.html)
 
 #### 1️⃣ Topic 1: UI - ReactJS ####
+
+→ [index](#index)
 
 ##### 📖 Reading: #####
 
@@ -206,7 +218,6 @@ React Native is like React, but it uses native components instead of web compone
 
 7. Redux [Redux](http://redux.js.org/docs/introduction/) [React-Redux](http://redux.js.org/docs/basics/UsageWithReact.html)
 
-
 ##### Extra reading: #####
 
 * [Full guide on ReactJS](https://scotch.io/tutorials/learning-react-getting-started-and-concepts).
@@ -214,6 +225,8 @@ React Native is like React, but it uses native components instead of web compone
 * [Read some ReactJS tips](https://facebook.github.io/react/tips/introduction.html).
 
 #### 2️⃣ Topic 2: Props & State ####
+
+→ [index](#index)
 
 ##### 📖 Reading: #####
 
@@ -223,19 +236,27 @@ React Native is like React, but it uses native components instead of web compone
 
 #### 3️⃣ Topic 3: Style ####
 
+→ [index](#index)
+
 ##### 📖 Reading: #####
 
 1. Beginner: React Native Style [basic tutorial](https://facebook.github.io/react-native/docs/style.html)
 
 #### 4️⃣ Topic 4: Components ####
 
+→ [index](#index)
+
 1. Beginner: Check the compoennts section and learn what they do [basic tutorial](https://facebook.github.io/react-native/docs/getting-started.html)
 
 #### 5️⃣ Topic 5: Handling touches ####
 
+→ [index](#index)
+
 1. Beginner: [Handling touches](https://facebook.github.io/react-native/docs/handling-touches.html)
 
 #### 6️⃣ Topic 6: Networking ####
+
+→ [index](#index)
 
 1. Beginner: [Networking](https://facebook.github.io/react-native/docs/network.html)
 
