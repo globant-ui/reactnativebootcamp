@@ -23,7 +23,7 @@
 
 6. [Handling advanced Developers](#handling-advanced-developers)
 
-7. [Materials](#materials)
+7. [Tools](#tools)
 
 8. [General Guidelines](#general-guidelines)
 
