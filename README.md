@@ -33,9 +33,11 @@
 
 11. [Learning Days](#learning-days)
 
+12. [Introduction](#introduction)
+
     * [Topic 0: Getting started](#topic-0-getting-started)
 
-    * [Topic 1: ReactJS](#topic-1-reactjs)
+    * [Topic 1: UI - ReactJS](#topic-1-ui---reactjs)
 
     * [Topic 2: Prop & State](#topic-2-props-state)
 
@@ -47,7 +49,9 @@
 
     * [Topic 6: Networking](#topic-6-networking)
 
-12. [Your First Project Starts Now!](#bookmark=id.605681dc8138)
+13. [Commits](#commits)
+
+14. [Reviews](#reviews)
 
 ### Objective
 
@@ -146,6 +150,8 @@ Here you will reach just your boot camp fellows for asking question sharing know
 
 The test application will consist in a Last.fm client.
 
+→ [index](#index)
+
 ### Environment Setup
 
 Documentation (https://facebook.github.io/react-native/docs/getting-started.html)
@@ -156,7 +162,9 @@ Documentation (https://facebook.github.io/react-native/docs/getting-started.html
 
 3. Install watchman
 
-### Learning Days ###
+→ [index](#index)
+
+### Learning Days
 
 Each day you will grab the fundamentals of the key building blocks for the next generation mobile apps.
 
@@ -172,7 +180,9 @@ Most important task numbers are listed in the "*Key Points*" section for each da
 3. 📬 Commit: 
 You will commit all your code on a daily basis, when you finish your practice.
 
-### Introduction 🚀
+→ [index](#index)
+
+### Introduction
 
 At high level you could see the keys as:
 
@@ -180,9 +190,19 @@ At high level you could see the keys as:
 
 React Native is like React, but it uses native components instead of web components as building blocks. So to understand the basic structure of a React Native app, you need to understand some of the basic React concepts, like JSX, components, state, and props. If you already know React, you still need to learn some React-Native-specific stuff, like the native components.
 
-#### 0️⃣ [Topic 0: Getting started](https://facebook.github.io/react-native/docs/getting-started.html)
+→ [index](#index)
 
-#### 1️⃣ Topic 1: UI - ReactJS ####
+#### Topic 0: Getting started
+
+→ [index](#index)
+
+##### 📖 Reading: #####
+
+1. Start guide [Geting started](https://facebook.github.io/react-native/docs/getting-started.html)
+
+#### Topic 1: UI - ReactJS
+
+→ [index](#index)
 
 ##### 📖 Reading: #####
 
@@ -200,14 +220,15 @@ React Native is like React, but it uses native components instead of web compone
 
 7. Redux [Redux](http://redux.js.org/docs/introduction/) [React-Redux](http://redux.js.org/docs/basics/UsageWithReact.html)
 
-
 ##### Extra reading: #####
 
 * [Full guide on ReactJS](https://scotch.io/tutorials/learning-react-getting-started-and-concepts).
 
 * [Read some ReactJS tips](https://facebook.github.io/react/tips/introduction.html).
 
-#### 2️⃣ Topic 2: Props & State ####
+#### Topic 2: Props & State
+
+→ [index](#index)
 
 ##### 📖 Reading: #####
 
@@ -215,21 +236,29 @@ React Native is like React, but it uses native components instead of web compone
 
 2. Beginner [basic tutorial](https://facebook.github.io/react-native/docs/state.html#content)
 
-#### 3️⃣ Topic 3: Style ####
+#### Topic 3: Style
+
+→ [index](#index)
 
 ##### 📖 Reading: #####
 
 1. Beginner: React Native Style [basic tutorial](https://facebook.github.io/react-native/docs/style.html)
 
-#### 4️⃣ Topic 4: Components ####
+#### Topic 4: Components
+
+→ [index](#index)
 
 1. Beginner: Check the compoennts section and learn what they do [basic tutorial](https://facebook.github.io/react-native/docs/getting-started.html)
 
-#### 5️⃣ Topic 5: Handling touches ####
+#### Topic 5: Handling touches
+
+→ [index](#index)
 
 1. Beginner: [Handling touches](https://facebook.github.io/react-native/docs/handling-touches.html)
 
-#### 6️⃣ Topic 6: Networking ####
+#### Topic 6: Networking
+
+→ [index](#index)
 
 1. Beginner: [Networking](https://facebook.github.io/react-native/docs/network.html)
 
@@ -279,7 +308,7 @@ Commit your practice code.
 
 → [index](#index)
 
-#### 7️⃣ Topic 7: Navigation - StackNavigator ####
+#### Topic 7: Navigation - StackNavigator
 In this Topic we will focus on learning how to use the React Native navigation library. This library is a third party as the built in navigation was deprecated because of performance issues
 
 ##### 📖 Reading: #####
@@ -314,7 +343,7 @@ Commit your practice code.
 
 → [index](#index)
 
-#### 8️⃣ Topic 8: Navigation - TabNavigator####
+####Topic 8: Navigation - TabNavigator
 
 ##### 📖 Reading: #####
 
@@ -355,7 +384,7 @@ Commit your practice code.
 
 → [index](#index)
 
-#### 9️⃣ Topic 9: Navigation - DrawerNavigator ####
+#### Topic 9: Navigation - DrawerNavigator
 
 ##### 📖 Reading: #####
 
