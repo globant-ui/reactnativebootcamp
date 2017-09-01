@@ -33,7 +33,7 @@
 
 11. [Learning Days](#learning-days)
 
-12. [Introduction](#Introduction)
+12. [Introduction](#introduction)
 
     * [Topic 0: Getting started](#topic-0-getting-started)
 
