@@ -214,7 +214,7 @@ React Native is like React, but it uses native components instead of web compone
 
 ##### 📖 Reading: #####
 
-1. [What is ReactJS?](http://facebook.github.io/react/). [Here](http://www.instrument.com/latest/an-introduction-to-react-js) is an introduction to it.
+1. [What is ReactJS?](http://facebook.github.io/react/). [Here](http://www.instrument.com/articles/an-introduction-to-reactjs) is an introduction to it.
 
 2. First [get started with ReactJS](https://facebook.github.io/react/docs/getting-started.html) then [Think in React](https://facebook.github.io/react/docs/thinking-in-react.html).
 
