@@ -295,7 +295,7 @@ React Native is like React, but it uses native components instead of web compone
 
 6. Add a list to the page
 
-7. Create a service that fetches from ```https://jsonplaceholder.typicode.com/user```
+7. Create a service that fetches from ```https://jsonplaceholder.typicode.com/users```
 
 8. Add a button and attach a touch event that loads the items in the list
 
